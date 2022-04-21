@@ -1,0 +1,17 @@
+805620 customers finished purchases
+18744 customers cancelled
+
+finished transactions each year
+- 2009	30761
+- 2010	403094
+- 2011	371765
+
+cancelled transactions each year
+- 2009	1015
+- 2010	9919
+- 2011	8560
+
+cancellation rate
+- 2009	0.125990
+- 2010	1.231226
+- 2011	1.062536
